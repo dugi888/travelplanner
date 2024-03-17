@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iMI66kheVnWgl9d5rO0zhJMLX1jLv3eyz4zpt/efaiztZdzWw9P1pWa4SPemACG0a42vuIBH4qTEp6tzTumCEg==",
+  "dgSpecHash": "EbEAhQBRcdj43kA+2v8xg93rqBXul5TPGSw7YreCMB6l/FoaofJODCEFGm+Wg1NwPBS5t/PHpy9CnVf2fdSbpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mirko\\Desktop\\Skola\\MIT\\Project\\TravelPlanner\\TravelPlanner\\TravelPlanner.csproj",
+  "projectFilePath": "C:\\Users\\mirko\\Desktop\\Skola\\MIT\\Project\\TravelPlanner\\TravelPlanner.WebServer\\TravelPlanner.WebServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mirko\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\mirko\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mirko\\Desktop\\Skola\\MIT\\Project\\TravelPlanner\\TravelPlanner\\TravelPlanner.csproj",
-      "projectName": "TravelPlanner",
-      "projectPath": "C:\\Users\\mirko\\Desktop\\Skola\\MIT\\Project\\TravelPlanner\\TravelPlanner\\TravelPlanner.csproj",
+      "projectUniqueName": "C:\\Users\\mirko\\Desktop\\Skola\\MIT\\Project\\TravelPlanner\\TravelPlanner.WebServer\\TravelPlanner.WebServer.csproj",
+      "projectName": "TravelPlanner.WebServer",
+      "projectPath": "C:\\Users\\mirko\\Desktop\\Skola\\MIT\\Project\\TravelPlanner\\TravelPlanner.WebServer\\TravelPlanner.WebServer.csproj",
       "packagesPath": "C:\\Users\\mirko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mirko\\Desktop\\Skola\\MIT\\Project\\TravelPlanner\\TravelPlanner\\obj\\",
+      "outputPath": "C:\\Users\\mirko\\Desktop\\Skola\\MIT\\Project\\TravelPlanner\\TravelPlanner.WebServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mirko\\AppData\\Roaming\\NuGet\\NuGet.Config"
