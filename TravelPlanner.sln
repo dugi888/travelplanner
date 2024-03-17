@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelPlanner", "TravelPlanner\TravelPlanner.csproj", "{DF636A11-F344-4BF1-8626-4C313026C0CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelPlanner.WebServer", "TravelPlanner.WebServer\TravelPlanner.WebServer.csproj", "{DF636A11-F344-4BF1-8626-4C313026C0CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

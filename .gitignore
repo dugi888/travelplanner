@@ -29,7 +29,7 @@ yarn-error.log
 .history/*
 
 # Miscellaneous
-TravelPlanner/ClientApp/.angular/cache
+TravelPlanner.WebServer/ClientApp/.angular/cache
 .angular/cache
 .sass-cache/
 /connect.lock
