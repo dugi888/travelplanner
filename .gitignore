@@ -7,9 +7,9 @@
 /bazel-out
 
 # Node
-/node_modules
-npm-debug.log
-yarn-error.log
+TravelPlanner/ClientApp/node_modules
+TravelPlanner/ClientApp/npm-debug.log
+TravelPlanner/ClientApp/yarn-error.log
 
 # IDEs and editors
 .idea/
@@ -21,7 +21,7 @@ yarn-error.log
 *.sublime-workspace
 
 # Visual Studio Code
-.vscode/*
+TravelPlanner/ClientApp/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -29,7 +29,7 @@ yarn-error.log
 .history/*
 
 # Miscellaneous
-/.angular/cache
+TravelPlanner/ClientApp//.angular/cache
 .sass-cache/
 /connect.lock
 /coverage
