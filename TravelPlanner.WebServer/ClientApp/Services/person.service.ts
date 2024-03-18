@@ -1,19 +1,19 @@
 import { Injectable } from '@angular/core';
-import {Weather} from "../Models/Weather";
+import {Person} from "../Models/Person";
 import { HttpClient } from '@angular/common/http';
 
 
 @Injectable({
   providedIn: 'root'
 })
-export class WeatherService {
+export class PersonService {
 
 
   constructor(private http: HttpClient) { }
-  url = 'https://localhost:7178/api/weatherforecast';
+  url = 'http://localhost:5267/api/Person';
 
   getConfig() {
-    return this.http.get<Weather>(this.url);
+    return this.http.get<Person>(this.url);
   }
 
 }

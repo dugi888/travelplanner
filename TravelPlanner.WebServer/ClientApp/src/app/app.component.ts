@@ -3,8 +3,8 @@
 
 import { Component, OnInit  } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import {WeatherService} from "../../Services/weather.service";
-import {Weather} from "../../Models/Weather";
+import {PersonService} from "../../Services/person.service";
+import {Person} from "../../Models/Person";
 
 
 @Component({
@@ -21,13 +21,16 @@ export class AppComponent implements OnInit{
   ngOnInit(){
     this.showConfig();
   }
-  constructor(private configService: WeatherService) {
+  constructor(private configService: PersonService) {
     this.showConfig();
 
   }
 
   showConfig() {
-    this.configService.getConfig();
+    this.configService.getConfig().subscribe(data =>{
+      this.title = data.name;
+      console.log("Name: "+data.name);
+    });
   }
 }
 
