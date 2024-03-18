@@ -15,6 +15,7 @@
 
     <ItemGroup>
       <Folder Include="ClientApp\Services\" />
+      <Folder Include="ClientApp\src\app\Components\" />
     </ItemGroup>
 
 </Project>

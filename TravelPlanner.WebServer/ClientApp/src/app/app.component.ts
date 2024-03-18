@@ -5,18 +5,20 @@ import { Component, OnInit  } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import {PersonService} from "../../Services/person.service";
 import {Person} from "../../Models/Person";
+import {NewcompyyyComponent} from "./Components/newcompyyy/newcompyyy.component";
 
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, NewcompyyyComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
 export class AppComponent implements OnInit{
   title = 'ClientApp';
-
+  openAppComp = true;
+  openNewCompyyy = false;
 
   ngOnInit(){
     this.showConfig();
@@ -24,6 +26,15 @@ export class AppComponent implements OnInit{
   constructor(private configService: PersonService) {
     this.showConfig();
 
+  }
+  openNewCompyyyDialogue(){
+    console.log("Open new comp");
+    this.openNewCompyyy = true;
+  }
+
+  onClose(){
+    console.log("Close comp");
+    this.openAppComp = false
   }
 
   showConfig() {
