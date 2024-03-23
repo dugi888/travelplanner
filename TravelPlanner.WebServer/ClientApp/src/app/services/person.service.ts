@@ -10,7 +10,7 @@ export class PersonService {
 
 
   constructor(private http: HttpClient) { }
-  url = 'https://localhost:7178/api/Person'; // This can vary from config version being ran
+  url = 'https://localhost:9001/api/Person'; // This can vary from config version being ran
 
   getConfig() {
     return this.http.get<Person>(this.url);

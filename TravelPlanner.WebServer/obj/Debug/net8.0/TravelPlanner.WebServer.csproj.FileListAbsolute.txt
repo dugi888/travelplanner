@@ -39,3 +39,4 @@ C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\o
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\ref\TravelPlanner.WebServer.dll
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\bin\Debug\net8.0\ClientApp\src\proxy.conf.json
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\TravelPl.F234C5AB.Up2Date
+C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\bin\Debug\net8.0\ClientApp\src\vendor\fontawesome-free\package.json
