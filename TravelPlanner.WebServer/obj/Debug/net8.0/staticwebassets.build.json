@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "MISzps/PgcDaNmj94iYjE5EW/ChGREiXCLDpNZz8TxI=",
-  "Source": "TravelPlanner",
-  "BasePath": "_content/TravelPlanner",
+  "Hash": "4KMbfqISr/r+3o9G8cW/0aOeIFt25bb+I0R6L0/ZOxQ=",
+  "Source": "TravelPlanner.WebServer",
+  "BasePath": "_content/TravelPlanner.WebServer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
