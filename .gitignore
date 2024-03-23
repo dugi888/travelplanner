@@ -270,8 +270,8 @@ __pycache__/
 *.overrides.json
 /DinitFileBrowser/logs
 DinitFileBrowser_local.sln.DotSettings.user
-/dSpace.AppServer/ClientApp/.vscode
-/dSpace.AppServer/Logs
-/dSpace.AppServer/ClientApp/package-lock.json
-/dSpace.AppServer/ClientApp/yarn.lock
-/dSpace.AppServer/ClientApp/.angular
+/TravelPlanner.WebServer/ClientApp/.vscode
+/TravelPlanner.WebServer/Logs
+/TravelPlanner.WebServer/ClientApp/package-lock.json
+/TravelPlanner.WebServer/ClientApp/yarn.lock
+/TravelPlanner.WebServer/ClientApp/.angular
