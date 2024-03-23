@@ -32,9 +32,10 @@ C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\o
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TravelPlanner.WebServer.props
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\scopedcss\bundle\TravelPlanner.WebServer.styles.css
-C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\TravelPlanner.WebServer.csproj.CopyComplete
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\TravelPlanner.WebServer.dll
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\refint\TravelPlanner.WebServer.dll
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\TravelPlanner.WebServer.pdb
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\TravelPlanner.WebServer.genruntimeconfig.cache
 C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\ref\TravelPlanner.WebServer.dll
+C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\bin\Debug\net8.0\ClientApp\src\proxy.conf.json
+C:\Users\mirko\Desktop\Skola\MIT\Project\TravelPlanner\TravelPlanner.WebServer\obj\Debug\net8.0\TravelPl.F234C5AB.Up2Date

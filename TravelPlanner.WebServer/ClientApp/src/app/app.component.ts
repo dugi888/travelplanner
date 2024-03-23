@@ -3,8 +3,8 @@
 
 import { Component, OnInit  } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import {PersonService} from "../../Services/person.service";
-import {Person} from "../../Models/Person";
+import {PersonService} from "./services/person.service";
+import {Person} from  "./models/person";
 import {NewcompyyyComponent} from "./Components/newcompyyy/newcompyyy.component";
 
 
